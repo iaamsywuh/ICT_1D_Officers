@@ -1,1 +1,71 @@
-# ICT_1D_Officers
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meet All the ICT 1D Officers</title>
+    <h1>Adviser:Mrs.Marilou Capile</h1>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f8ff;
+        }
+        h1 {
+            color: #003366;
+        }
+        figure {
+            display: inline-block;
+            margin: 20px;
+        }
+        img {
+            width: 300px;
+            height: auto;
+            border-radius: 10px;
+            border: 3px solid #003366;
+        }
+        figcaption {
+            font-style: italic;
+            color: #555;
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Meet All the ICT 1D Officers</h1>
+    <figure>
+        <img src="c:\Users\Private\Downloads\508364159_1040333994748006_6723713101002316702_n.jpg" alt="ICT 1D Officers">
+        <figcaption>Handang humarap dahil kami'y masasarap!</figcaption>
+    </figure>
+  <h1>President</h1>
+    <p>Cairo Theo Ranit</p>
+    <p>Maka diyos</p>
+          <img src="c:\Users\Private\Downloads\524313097_1333395934877138_2535516740746707886_n.jpg">
+    <h1>Vice President</h1>
+    <p>Edward Rice</p>
+    <p>Manggang tabingi</p>
+         <img src="c:\Users\Private\Downloads\519209084_1396732501613777_3517165030358962134_n (1).jpg">
+    <h1>Secretary</h1>
+    <p>Jansix Tolentino</p>
+    <p>Athlete</p>
+          <img src="c:\Users\Private\Downloads\482017085_1574080526884267_7052054779757468239_n.jpg">
+    <h1>Treasurer</h1>
+    <p>Kliena Reanzares</p>
+    <p>Nonchalant</p>
+           <img src="c:\Users\Private\Downloads\462564480_1090461505798794_4151123330886532324_n.jpg">
+    <h1>Auditor</h1>
+    <p>Marc Gabriel Ycaro</p>
+    <p>Titan</p>
+            <img src="c:\Users\Private\Downloads\523054445_583765491334076_5074059222962905993_n.jpg">
+    <h1>SGT at Arms 1</h1>
+    <p>Shan Mojar</p>
+    <p>Masarap</p>
+             <img src="c:\Users\Private\Downloads\524605745_768916029041899_3006412750297253925_n.jpg">
+    <h1>SGT at Arms 2</h1>
+    <p>Tyron Ragua</p>
+    <p>Tahimik</p>
+             <img src="c:\Users\Private\Downloads\525238250_1234481505089609_3416302315456923777_n.jpg">
+    <h1>P.I.O</h1>
+    <p>Heinekken Serenio</p>
+    <p>"Y'all" Master</p>
+             <img src="c:\Users\Private\Downloads\524948122_757547060083815_3047997788529592133_n.jpg">
+</body>
+</html>
